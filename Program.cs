@@ -1,5 +1,11 @@
 ﻿//Valerie Aguilar
 //October 25, 2022
+
+//Reviewed by: Angelica Ayala
+//Date: 10/25/22
+//Comment: Code is easy to ready and works well. When playing the game, it allowed me to play again.
+
+
 bool playAgain = true;
 bool isValid = true;
 bool validNumber;

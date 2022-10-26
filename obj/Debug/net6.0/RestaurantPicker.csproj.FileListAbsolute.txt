@@ -13,3 +13,18 @@
 /Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.pdb
 /Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.genruntimeconfig.cache
 /Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/obj/Debug/net6.0/ref/RestaurantPicker.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerVal/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerVal/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.deps.json
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerVal/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.runtimeconfig.json
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerVal/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerVal/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.pdb
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerVal/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.csproj.AssemblyReference.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerVal/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerVal/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.AssemblyInfoInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerVal/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.AssemblyInfo.cs
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerVal/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.csproj.CoreCompileInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerVal/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerVal/RestaurantPicker/obj/Debug/net6.0/refint/RestaurantPicker.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerVal/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.pdb
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerVal/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.genruntimeconfig.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerVal/RestaurantPicker/obj/Debug/net6.0/ref/RestaurantPicker.dll
