@@ -1,0 +1,15 @@
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.deps.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.runtimeconfig.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.csproj.AssemblyReference.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.AssemblyInfoInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.AssemblyInfo.cs
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.csproj.CoreCompileInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/obj/Debug/net6.0/refint/RestaurantPicker.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.genruntimeconfig.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/obj/Debug/net6.0/ref/RestaurantPicker.dll

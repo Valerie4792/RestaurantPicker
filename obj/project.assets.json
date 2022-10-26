@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/RestaurantPicker/RestaurantPicker/RestaurantPicker.csproj",
+      "projectUniqueName": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/RestaurantPicker.csproj",
       "projectName": "RestaurantPicker",
-      "projectPath": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/RestaurantPicker/RestaurantPicker/RestaurantPicker.csproj",
+      "projectPath": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/RestaurantPicker.csproj",
       "packagesPath": "/Users/val/.nuget/packages/",
-      "outputPath": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/RestaurantPicker/RestaurantPicker/obj/",
+      "outputPath": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/restPicker2/RestaurantPicker/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/val/.nuget/NuGet/NuGet.Config"
